@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+  <div class="bg-image"></div>
+<div id="welcome" class="bg-text">
+  <h1>Üdv a CodeBerryben!</h1>
+  <button id="start" class="btn default">Vágjunk bele!</button>
+</div>
+<div id="congratulation" class="bg-text">
+  <h1>Gratulálunk!</h1>
+  <p>Sikerült megcsinálnod az első oldaladat!</p>
+</div>
+</body>
+</html>
